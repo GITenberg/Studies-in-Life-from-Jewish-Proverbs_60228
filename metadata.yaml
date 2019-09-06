@@ -1,0 +1,24 @@
+_repo: Studies-in-Life-from-Jewish-Proverbs_60228
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Elmslie, W. A. L. (William Alexander Leslie)
+    alias: Elmslie, William Alexander Leslie
+    gutenberg_agent_id: '50858'
+    url: http://www.gutenberg.org/2009/agents/50858
+description: ''
+gutenberg_issued: '2019-09-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60228'
+  lccn: '18011469'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Proverbs, Hebrew'
+- GITenberg
+title: Studies in Life from Jewish Proverbs
+url: http://www.gutenberg.org/ebooks/60228
